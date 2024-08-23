@@ -3,7 +3,6 @@ font-family: 'Ubuntu', sans-serif; */
 
 * {
     text-align: center;
-    /* font-family: 'Roboto', sans-serif; */
     font-family: 'Ubuntu', sans-serif;
 }
 
@@ -208,6 +207,3 @@ font-family: 'Ubuntu', sans-serif; */
         letter-spacing: 0.5px;
     }
 }
-
-/* -------------------- PHONE -------------------- */
-@media only screen and (max-width: 420px){}
